@@ -1,0 +1,14 @@
+{
+    "resources": {
+        "static_dir": "./static/",
+        "static_url": "/static/",
+        "template_dirs": [
+            "./static/templates/"
+        ]
+    },
+    "server": {
+        "debug": true,
+        "host": "localhost",
+        "port": 3000
+    }
+}

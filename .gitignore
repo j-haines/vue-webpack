@@ -1,0 +1,6 @@
+__pycache__
+*.egg-info/
+static/dist/build.js
+env/
+node_modules/
+package-lock.json
